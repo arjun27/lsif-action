@@ -1,2 +1,1 @@
-# lsif-action
-GitHub Action to export LSIF
+# GitHub Action for LSIF
